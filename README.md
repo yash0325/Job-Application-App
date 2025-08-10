@@ -23,3 +23,7 @@ OpenAI API
 Pydantic v2 (structured outputs)
 
 pypdf, pandas
+
+# UI Preview
+<img width="1918" height="861" alt="image" src="https://github.com/user-attachments/assets/a25adf4d-3556-4658-8eb7-4abb0edb732b" />
+
